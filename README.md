@@ -14,7 +14,7 @@
   <img align="center" alt="nic-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="nic-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="nic-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="nic-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/9658b4d0113957273a37843cd5610176.gif">
+  <img align="right" alt="nic-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/niny_/Documents/NicollyCode/download20220106171143-removebg-preview.png">
 
 </div>
   
