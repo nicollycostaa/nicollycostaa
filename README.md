@@ -2,10 +2,10 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 👩‍💻 Meu nome é Nicolly Costa.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Gestão de TI** na <a href="http://www.fatecjd.edu.br/portal/">FATEC de Jundiaí</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS3, JavaScript, Ruby, React, VUE**.
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -40,8 +40,14 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Nicolly Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/)](https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolly65costa@hotmail.com)](mailto:nicolly65costa@hotmail.com)
-[![GitHub Nicolly Costa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/nicollycostaa/nicollycostaa)
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolly65costa@hotmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/" /></a>
+  
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nicollycode/"/></a>
+</p>  
