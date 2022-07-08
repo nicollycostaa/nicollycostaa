@@ -38,10 +38,8 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollycostaa&layout=compact&langs_count=7&theme=dracula"/>
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-
 <p align="left">
+  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nicolly65costa@hotmail.com" /></a>
 
