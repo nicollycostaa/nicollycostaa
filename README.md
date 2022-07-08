@@ -40,7 +40,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Nicolly Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin: Nicolly Costa](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/)](https://www.linkedin.com/in/nicolly-costa-santos-do-vale-314050223/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolly65costa@hotmail.com)](mailto:nicolly65costa@hotmail.com)
 [![GitHub Nicolly Costa]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/nicollycostaa/nicollycostaa)
 
