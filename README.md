@@ -20,7 +20,9 @@
 
 **DevOps**
 
-  ![Git](https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor)
+  ![Docker](https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor)
+  ![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=128&color=currentColor)
+  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
